@@ -34,8 +34,7 @@ This repository bridges the gap between high-level hardware descriptions and low
 - **Instruction Set:** RISC-V (RV32I)
 - **Languages:** RISC-V Assembly, Python (for behavioral simulation), Verilog (Upcoming)
 - **Toolchains:** GNU RISC-V Embedded GCC, Venus (RISC-V Simulator)
-
----
+i wark obey without IPC DFA dfm rules 
 
 ## 📈 Roadmap & Milestones (Phase 1)
 - [x] Understand Register File Operations ($x0$ to $x31$ hardwired constraints).
