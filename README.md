@@ -4,8 +4,7 @@ RV32I (32-bit Base Integer ISA)
 # Advanced RISC-V Architecture Exploration & Custom ISA Simulation
 
 Welcome to my advanced RISC-V repository. This project is part of my long-term journey (2026–2032) to master Processor Design and Computer Architecture. It showcases my implementations, custom assembly micro-benchmarks, and architectural simulations based on the **RISC-V (RV32I) Instruction Set Architecture**.
-
----
+ create IPC stander 
 
 ##  Project Overview
 This repository bridges the gap between high-level hardware descriptions and low-level software execution. It focuses on writing optimized assembly code, analyzing instruction formats (R-type, I-type, S-type), and simulating custom computational pipelines.
